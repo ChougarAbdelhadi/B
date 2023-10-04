@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 une ligne
+
+
+je veux faire un stash
+=======
+dskljfhqskjdfhqdskjmune ligne
+>>>>>>> Stashed changes
